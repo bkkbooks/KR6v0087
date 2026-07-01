@@ -1,0 +1,126 @@
+canonical_identifier: bkk:krp/KR6v0087/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0087/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴略疏卷第一
+  identifiers:
+    krp: KR6v0087
+    cbeta: ZW08n0067
+    cbeta_old_id: ZW08n0067
+    authorityid: CA0008491
+    json_key: ZW0067
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW08/ZW08n0067.xml
+    old_id: ZW08n0067
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0087_000-ZW.yaml, hash: 'sha256:3d2c43ecfd335a0e4300df0f5300d0334a7e15928c9d32cc7cb7b536283bd338'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0087_000-ZW.markers.yaml, hash: 'sha256:fc6ab9027fab53e4b93ade3e8a4bbc8a6593b256feff4a88e10746887e150da2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-2
+    span:
+    - front
+    - 761
+    - 761
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-3
+    span:
+    - front
+    - 763
+    - 763
+  label: 世間淨眼品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-4
+    span:
+    - front
+    - 3241
+    - 3241
+  label: 盧舍那佛品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-5
+    span:
+    - front
+    - 8958
+    - 8958
+  label: 名號品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-6
+    span:
+    - front
+    - 9919
+    - 9919
+  label: 四諦品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-7
+    span:
+    - front
+    - 10050
+    - 10050
+  label: 光覺品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-8
+    span:
+    - front
+    - 10648
+    - 10648
+  label: 明難品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-9
+    span:
+    - front
+    - 11088
+    - 11088
+  label: 淨行品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0087_ZW_000-mulu-10
+    span:
+    - front
+    - 11780
+    - 11780
+  label: 賢首品第八
+  type: mulu
+  level: 1
+hash: sha256:02cb46fe2b24b92e809b33f1f27e2089ec29a6b6b41cabb0b77c4dd7a9c9c969
